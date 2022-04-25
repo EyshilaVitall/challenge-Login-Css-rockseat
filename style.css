@@ -45,3 +45,11 @@ button{
 .last-content{
     color: #FFC632;
 }
+.image{
+   max-height: 600px;
+  position: absolute;
+  top: 40px;
+  left: 600px;
+ flex: auto;
+ 
+}
